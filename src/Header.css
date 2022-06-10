@@ -1,0 +1,16 @@
+p {
+    text-align: justify;
+    padding-right: 25px;
+}
+
+img {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+        {display:  block;}
+}
